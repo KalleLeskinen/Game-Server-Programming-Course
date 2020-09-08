@@ -1,0 +1,12 @@
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.exe
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.deps.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.runtimeconfig.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.dll
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\bin\Release\netcoreapp3.1\Assignment2.pdb
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.csproj.CoreCompileInputs.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.dll
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.pdb
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 2\Assignment2\obj\Release\netcoreapp3.1\Assignment2.genruntimeconfig.cache

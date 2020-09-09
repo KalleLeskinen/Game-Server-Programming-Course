@@ -16,5 +16,11 @@ namespace Assignment2.World
             this.Level = level;
         }
 
+        override
+        public String ToString()
+        {
+            return "id: " + Id + " level: " + Level;
+        }
+
     }
 }

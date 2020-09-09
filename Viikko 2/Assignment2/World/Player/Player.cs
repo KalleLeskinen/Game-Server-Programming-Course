@@ -5,6 +5,7 @@ using System.Text;
 using System.Xml.Linq;
 
 
+
 namespace Assignment2.World
 {
     public class Player
@@ -32,13 +33,14 @@ namespace Assignment2.World
             {
                 var item = (Item)Items.OrderByDescending(x => x.Level).First();
                 return item;
-            } catch (Exception e)
+            }
+            catch (Exception e)
             {
                 Console.WriteLine("Players inventory is empty!");
             }
 
             return new Item(0);
-            
+
         }
 
 
@@ -70,9 +72,10 @@ namespace Assignment2.World
         public Item[] GetItemsWithLinq()
         {
 
-            try { 
-            var itemArray = Items.Select(x => x).ToArray();
-            return itemArray;
+            try
+            {
+                var itemArray = Items.Select(x => x).ToArray();
+                return itemArray;
             }
             catch (Exception e)
             {
@@ -88,21 +91,34 @@ namespace Assignment2.World
         public Item GetFirstPlayerItem()
         {
 
-            if(Items.Count != 0)
+            if (Items.Count != 0)
             {
+
                 return Items[0];
-            } else
+
+            }
+            else
             {
                 return null;
             }
+
         }
 
+        //4.1 Returns the first item using LINQ
         public Item GetFirstPlayerItemWithLINQ()
         {
 
+            if (Items.Count != 0)
+            {
 
+                return Items.First();
 
-            return null;
+            }
+            else
+            {
+                return null;
+            }    
+
         }
 
 

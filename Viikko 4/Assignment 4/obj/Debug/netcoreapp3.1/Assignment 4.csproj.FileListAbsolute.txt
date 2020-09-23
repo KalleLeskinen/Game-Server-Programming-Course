@@ -1,0 +1,22 @@
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.exe
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.deps.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.runtimeconfig.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.runtimeconfig.dev.json
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.dll
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.pdb
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csprojAssemblyReference.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.AssemblyInfoInputs.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.AssemblyInfo.cs
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorTargetAssemblyInfo.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4.StaticWebAssets.Manifest.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4.StaticWebAssets.xml
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.dll
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.pdb
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.genruntimeconfig.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csproj.CoreCompileInputs.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.MvcApplicationPartsAssemblyInfo.cache
+H:\Active Projects\Game Server Programming\Game-Server-Programming-Course\Viikko 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csproj.CopyComplete

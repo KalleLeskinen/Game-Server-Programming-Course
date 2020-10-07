@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "b8c718d4-26b4-4035-a851-c7680491ce97",
+		"name": "Projekti",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Racers",
+			"item": [
+				{
+					"name": "Delete Racer",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": "localhost:56827/racers/Delete/<ID_HERE>"
+					},
+					"response": []
+				},
+				{
+					"name": "Create Racer",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Name",
+								"value": "Kimi",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\":\"Kimi\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:56827/racers/CreateRacer",
+						"description": "Creates a racer from the data in Body"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Racers",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "Kimi"
+						},
+						"url": "localhost:56827/racers/getall"
+					},
+					"response": []
+				},
+				{
+					"name": "Set Lap",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Time\" : 74.03\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:56827/racers/666fd232-c68f-4951-b2ba-8e48cef1b807/SetNewLapTime/Track/e53f6996-527c-4c2c-97cc-e59b50504b63"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Lap",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": "localhost:56827/racers/666fd232-c68f-4951-b2ba-8e48cef1b807/DeleteLapTime/LapId/e53f6996-527c-4c2c-97cc-e59b50504b63"
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Lap Times",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": ""
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Tracks",
+			"item": [
+				{
+					"name": "Create Track",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\":\"Laguna Seca\",\r\n    \"FastestPossible\": 70.1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:56827/tracks/CreateTrack",
+						"description": "    "
+					},
+					"response": []
+				},
+				{
+					"name": "Get Tracks",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:56827/tracks/GetAllTracks"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Track",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": "localhost:56827/tracks/DeleteTrack/790f43dd-b4ca-4d15-a80e-c745a2b51d4e"
+					},
+					"response": []
+				},
+				{
+					"name": "Update Track",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\" : \"Laguna Seca\",\r\n    \"FastestPossible\" : 69.9\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "localhost:56827/tracks/UpdateTrack/e53f6996-527c-4c2c-97cc-e59b50504b63"
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
